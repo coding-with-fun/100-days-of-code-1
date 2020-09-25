@@ -36,7 +36,7 @@
 
 ## Other resources
 
-1. [Confluence Page](https://harsh-patel767.atlassian.net/wiki/spaces/100DOC/overview)
+1. [Notion Page](https://www.notion.so/harsh2124/2ffa0aeda08445bb828f14315d537c4f?v=73d9f0279e8f47f6aae52548806f192b)
 
 ## Books (both coding and non-coding)
 
